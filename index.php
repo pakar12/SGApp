@@ -8,7 +8,7 @@
 <body>
   <div class = "container">
     <div class="jumbotron">
-      <h1 class="display-4">Customer Catalog</h1>
+      <h1 class="display-4">Portada actualizada</h1>
       <p class="lead">Customer Catalog Sample Application</p>
       <hr class="my-4">
       <p>PHP sample application connected to a MySQL database to list a customer catalog</p>
